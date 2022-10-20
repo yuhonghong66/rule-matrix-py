@@ -3,3 +3,4 @@ scipy
 pysbrl>=0.4
 flask>=1.0
 mdlp-discretization
+scikit-learn>=0.24.2 # not directly required, pinned by Snyk to avoid a vulnerability
