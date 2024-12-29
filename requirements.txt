@@ -3,3 +3,4 @@ scipy
 pysbrl>=0.4
 flask>=1.0
 mdlp-discretization
+jinja2>=3.1.5 # not directly required, pinned by Snyk to avoid a vulnerability
